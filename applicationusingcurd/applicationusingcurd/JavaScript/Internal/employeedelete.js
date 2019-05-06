@@ -1,0 +1,3 @@
+﻿alert("hfdi");
+function deldata() {
+}

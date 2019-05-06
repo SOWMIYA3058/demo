@@ -1,0 +1,6 @@
+E:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\applicationusingcurd\applicationusingcurd\bin\applicationusingcurd.dll.config
+E:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\applicationusingcurd\applicationusingcurd\bin\applicationusingcurd.dll
+E:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\applicationusingcurd\applicationusingcurd\bin\applicationusingcurd.pdb
+E:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\applicationusingcurd\applicationusingcurd\obj\Debug\applicationusingcrud.csprojResolveAssemblyReference.cache
+E:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\applicationusingcurd\applicationusingcurd\obj\Debug\applicationusingcurd.dll
+E:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\applicationusingcurd\applicationusingcurd\obj\Debug\applicationusingcurd.pdb
